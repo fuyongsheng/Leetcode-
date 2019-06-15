@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Leetcode刷题笔记](README.md)
 
