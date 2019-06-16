@@ -27,7 +27,7 @@ public int[] twoSum(int[] nums, int target) {
 }
 ```
 
-**时间复杂度\(Time Complexity\) :** O\(n^2\).          **空间复杂度\(Space Complexity\):** O\(1\).
+**时间复杂度\(Time Complexity\) :** O\(n^2\)          **空间复杂度\(Space Complexity\):** O\(1\)
 
  Runtime: **83 ms**                                                  Memory Usage: **25.3 MB**
 
@@ -55,7 +55,7 @@ public int[] twoSum(int[] nums, int target) {
     }
 ```
 
-**时间复杂度\(Time Complexity\) :** O\(n\).          **空间复杂度\(Space Complexity\):** O\(n\).
+**时间复杂度\(Time Complexity\) :** O\(n\)          **空间复杂度\(Space Complexity\):** O\(n\)
 
 Runtime: **2 ms**                                                  Memory Usage: **37.8 MB**
 
