@@ -24,4 +24,5 @@
 * [22.Generate Parentheses \#](22.generate-parentheses.md)
 * [23.Merge k Sorted Lists](23.merge-k-sorted-lists.md)
 * [24.Swap Nodes in Pairs](24.swap-nodes-in-pairs.md)
+* [26.Remove Duplicates from Sorted Array \#](26.remove-duplicates-from-sorted-array.md)
 
