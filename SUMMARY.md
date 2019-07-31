@@ -29,4 +29,5 @@
 * [28.Implement strStr\(\) \#](28.implement-strstr.md)
 * [31.Next Permutation \#](31.next-permutation.md)
 * [33.Search in Rotated Sorted Array](33.search-in-rotated-sorted-array.md)
+* [34.Find First and Last Position of Element in Sorted Array \#](34.find-first-and-last-position-of-element-in-sorted-array.md)
 
