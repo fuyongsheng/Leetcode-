@@ -27,7 +27,10 @@
 * [26.Remove Duplicates from Sorted Array \#](26.remove-duplicates-from-sorted-array.md)
 * [27.Remove Element \#](27.remove-element.md)
 * [28.Implement strStr\(\) \#](28.implement-strstr.md)
+* [30.Substring with Concatenation of All Words \#](30.substring-with-concatenation-of-all-words.md)
 * [31.Next Permutation \#](31.next-permutation.md)
+* [32.Longest Valid Parentheses \#](32.longest-valid-parentheses.md)
 * [33.Search in Rotated Sorted Array](33.search-in-rotated-sorted-array.md)
 * [34.Find First and Last Position of Element in Sorted Array \#](34.find-first-and-last-position-of-element-in-sorted-array.md)
+* [35.Search Insert Position](35.search-insert-position.md)
 
