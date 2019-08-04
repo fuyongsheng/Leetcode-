@@ -50,4 +50,5 @@
 * [50.Pow\(x, n\) \#](50.pow-x-n.md)
 * [51.N-Queens \#](51.n-queens.md)
 * [52.N-Queens II](52.n-queens-ii.md)
+* [53.Maximum Subarray](53.maximum-subarray.md)
 
