@@ -55,4 +55,5 @@
 * [55.Jump Game](55.jump-game.md)
 * [56.Merge Intervals \#](56.merge-intervals.md)
 * [57.Insert Interval \#](untitled-1.md)
+* [58.Length of Last Word \#](58.length-of-last-word.md)
 
