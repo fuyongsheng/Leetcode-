@@ -62,5 +62,6 @@
 * [62.Unique Paths](62.unique-paths.md)
 * [63.Unique Paths II \#](63.unique-paths-ii.md)
 * [64.Minimum Path Sum \#](64.minimum-path-sum.md)
-* [66.Plus One](66.plus-one.md)
+* [66.Plus One \#](66.plus-one.md)
+* [67.Add Binary \#](67.add-binary.md)
 
