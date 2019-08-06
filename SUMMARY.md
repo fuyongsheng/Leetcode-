@@ -64,4 +64,5 @@
 * [64.Minimum Path Sum \#](64.minimum-path-sum.md)
 * [66.Plus One \#](66.plus-one.md)
 * [67.Add Binary \#](67.add-binary.md)
+* [69.Sqrt\(x\)](69.sqrt-x.md)
 
