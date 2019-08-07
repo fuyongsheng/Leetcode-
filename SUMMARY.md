@@ -69,4 +69,5 @@
 * [71.Simplify Path \#](71.simplify-path.md)
 * [72.Edit Distance \#](72.edit-distance.md)
 * [73.Set Matrix Zeroes \#](73.set-matrix-zeroes.md)
+* [74.Search a 2D Matrix](74.search-a-2d-matrix.md)
 
