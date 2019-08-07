@@ -68,4 +68,5 @@
 * [70.Climbing Stairs \#](70.climbing-stairs.md)
 * [71.Simplify Path \#](71.simplify-path.md)
 * [72.Edit Distance \#](72.edit-distance.md)
+* [73.Set Matrix Zeroes \#](73.set-matrix-zeroes.md)
 
