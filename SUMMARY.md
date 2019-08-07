@@ -73,4 +73,5 @@
 * [75.Sort Colors](75.sort-colors.md)
 * [77.Combinations \#](77.combinations.md)
 * [78.Subsets \#](78.subsets.md)
+* [79.Word Search \#](79.word-search.md)
 
