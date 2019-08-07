@@ -70,4 +70,5 @@
 * [72.Edit Distance \#](72.edit-distance.md)
 * [73.Set Matrix Zeroes \#](73.set-matrix-zeroes.md)
 * [74.Search a 2D Matrix](74.search-a-2d-matrix.md)
+* [75.Sort Colors](75.sort-colors.md)
 
