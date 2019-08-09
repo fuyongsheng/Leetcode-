@@ -81,4 +81,6 @@
 * [84.Largest Rectangle in Histogram \#](84.largest-rectangle-in-histogram.md)
 * [86.Partition List \#](86.partition-list.md)
 * [88. Merge Sorted Array \#](untitled-2.md)
+* [89.Gray Code \#](89.gray-code.md)
+* [90.Subsets II \#](90.subsets-ii.md)
 
