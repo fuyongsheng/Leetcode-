@@ -89,4 +89,5 @@
 * [94.Binary Tree Inorder Traversal](94.binary-tree-inorder-traversal.md)
 * [95.Unique Binary Search Trees II \#](untitled-3.md)
 * [96.Unique Binary Search Trees \#](96.unique-binary-search-trees.md)
+* [98.Validate Binary Search Tree \#](98.validate-binary-search-tree.md)
 
