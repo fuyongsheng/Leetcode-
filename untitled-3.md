@@ -1,6 +1,6 @@
 # 95.Unique Binary Search Trees II \#
 
-![](.gitbook/assets/image%20%2831%29.png)
+![](.gitbook/assets/image%20%2833%29.png)
 
 给定一个数n，求出所有由1到n节点所构成的BST。
 

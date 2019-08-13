@@ -90,4 +90,6 @@
 * [95.Unique Binary Search Trees II \#](untitled-3.md)
 * [96.Unique Binary Search Trees \#](96.unique-binary-search-trees.md)
 * [98.Validate Binary Search Tree \#](98.validate-binary-search-tree.md)
+* [99.Recover Binary Search Tree \#](99.recover-binary-search-tree.md)
+* [100.Same Tree \#](100.same-tree.md)
 
